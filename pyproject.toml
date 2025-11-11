@@ -4,7 +4,7 @@ build-backend="hatchling.build"
 
 [project]
 name = "a2p"
-authors = [{name = "the a2p authors", email = "dev@1kbgz.com"}]
+authors = [{name = "the a2p authors", email = "t.paine154@ggmail.com"}]
 description = "Alias for p2a"
 readme = "README.md"
 license = { text = "Apache-2.0" }
