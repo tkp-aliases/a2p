@@ -141,14 +141,12 @@ js/node_modules
 js/test-results
 js/playwright-report
 js/*.tgz
-a2p/extension
 
 # Jupyter
 .ipynb_checkpoints
 .autoversion
 Untitled*.ipynb
-!a2p/extension/a2p.json
-!a2p/extension/install.json
+a2p/extension
 a2p/nbextension
 a2p/labextension
 
@@ -157,3 +155,7 @@ a2p/labextension
 
 # Rust
 target
+
+# Hydra
+outputs/
+multirun/
