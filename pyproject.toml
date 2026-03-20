@@ -29,7 +29,7 @@ classifiers = [
     "Programming Language :: Python :: 3.14",
 ]
 
-dependencies = ["p2a"]
+dependencies = []
 
 [project.optional-dependencies]
 develop = [
