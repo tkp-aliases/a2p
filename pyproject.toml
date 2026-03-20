@@ -7,7 +7,7 @@ build-backend = "hatchling.build"
 [project]
 name = "a2p"
 authors = [
-    {name = "the a2p authors", email = "t.paine154@ggmail.com"},
+    {name = "the a2p authors", email = "t.paine154@gmail.com"},
 ]
 description = "Alias for p2a"
 readme = "README.md"
