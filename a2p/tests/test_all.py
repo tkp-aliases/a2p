@@ -1,4 +1,4 @@
-from a2p import *  # noqa
+from a2p import *
 
 
 def test_all():
